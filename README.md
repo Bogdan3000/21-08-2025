@@ -1,8 +1,4 @@
 # 🌟 21-08-2025 Project
-
-A small but stylish web project built with **HTML, CSS, and JavaScript**.  
-It demonstrates UI design, color palettes, productivity tips, and even a random meme generator. 🎭
-
 ---
 
 ## 🚀 Live Demo
@@ -32,13 +28,3 @@ It demonstrates UI design, color palettes, productivity tips, and even a random 
 - **HTML5**
 - **CSS3** (flexbox, responsive styles, shadows, transitions)
 - **Vanilla JavaScript** (DOM manipulation, API fetch)
-
----
-
-## 📸 Preview
-![Demo Screenshot](https://21-08-2025.bohdan.lol/preview.png)
-
----
-
-## 📜 License
-MIT License © 2025 [Bogdan3000](https://github.com/Bogdan3000)
