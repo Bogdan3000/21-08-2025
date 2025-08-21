@@ -1,8 +1,4 @@
-# 🌟 21-08-2025 Project
-
-A stylish **single-file web project** built with **HTML, CSS, and JavaScript (all-in-one)**.  
-It demonstrates modern UI design, interactive productivity tips, and even a random meme generator. 🎭
-
+# 🌟 21-08-2025 Project V2
 ---
 
 ## 🚀 Live Demo
@@ -22,14 +18,3 @@ It demonstrates modern UI design, interactive productivity tips, and even a rand
 - **HTML5** (semantic structure)
 - **CSS3** (flexbox, shadows, transitions)
 - **Vanilla JavaScript** (DOM manipulation + API fetch)
-
----
-
-## 📸 Preview
-![Demo Screenshot](https://21-08-2025.bohdan.lol/preview.png)
-
----
-
-## 📜 License
-MIT License © 2025 [Bogdan3000](https://github.com/Bogdan3000)
-
